@@ -1,0 +1,7 @@
+[
+    {"id": "20202C", "nombre": "2020 2do Cuat" , "url" : "datos/20202c.csv", "formato" : "2021" }
+    , {"id": "20201C", "nombre": "2020 1er Cuat" , "url" : "datos/20201c.csv", "formato" : "viejo" }
+    , {"id": "20192C", "nombre": "2019 2do Cuat" , "url" : "datos/encuesta.csv", "formato" : "viejo" }
+    , {"id": "20191C", "nombre": "2019 1er Cuat" , "url" : "datos/encuesta-dc-2019-1erC.csv", "formato" : "viejo" }
+    , {"id": "20182C", "nombre": "2018 2do Cuat" , "url" : "datos/encuesta5.csv", "formato" : "viejo" }
+]
